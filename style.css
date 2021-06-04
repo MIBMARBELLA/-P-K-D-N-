@@ -33,4 +33,7 @@ body {
 .gradient-button:hover {
   background-position: right center;
 }
-.
+.Button {
+ display: flex;
+ justify-content: center; 
+}
